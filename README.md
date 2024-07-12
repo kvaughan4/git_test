@@ -1,1 +1,1 @@
-This repository is for practicing the GitHub Flow
+my name is Kate, and I live in Shelbyville, Kentucky. 
