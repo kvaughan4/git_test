@@ -1,1 +1,1 @@
-This is Kate's first git project!
+This repository is for practicing the GitHub Flow
